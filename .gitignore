@@ -1,0 +1,31 @@
+# IDE
+/*.suo
+*.DotSettings.user
+*.csproj.user
+
+# build
+Release
+Debug
+**/bin/*
+*/obj/**
+
+
+# deps
+packages/*
+
+# settings
+
+# deployment
+*.pubxml.user
+*.pubxml
+
+# other
+**/AssemblyTitle.cs
+*.orig
+
+.vs/*
+.idea/*
+
+# appplication data
+AppData
+**/.vs/
